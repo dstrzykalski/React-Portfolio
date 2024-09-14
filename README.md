@@ -8,7 +8,8 @@ React Portfolio
 
 ## Issues
 
-Project is Still in Progress 
+Project is Still in Progress
+It Atleast Displays the Ability to Start A React App And Call It in the Browser
 
 ## Resources
 
