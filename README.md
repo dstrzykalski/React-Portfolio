@@ -4,7 +4,7 @@ Challenge 16 - Daved Strzykalski
 
 ## Render URL
 
-<https://react-portfolio-fgv4.onrender.com>
+<https://react-portfolio-fgv4.onrender.com
 
 ## Features
 
