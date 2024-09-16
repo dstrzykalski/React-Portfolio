@@ -1,7 +1,6 @@
 function Footer() {
   return (
     <footer className="footer">
-        return (
             <div className="footer">
                 <div className="contact">
                     <h2>Contact</h2>
@@ -10,7 +9,6 @@ function Footer() {
                     </p>
                 </div>
             </div>
-        );
     </footer>
     );
 }
