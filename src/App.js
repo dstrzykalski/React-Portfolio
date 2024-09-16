@@ -1,5 +1,8 @@
 // import logo from '../public/logo192.png';
 import './App.css';
+import React from 'react';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
@@ -11,6 +14,7 @@ function App() {
         </p>
 
       </header>
+      <Footer />
     </div>
   );
 }
